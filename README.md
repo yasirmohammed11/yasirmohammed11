@@ -1,5 +1,46 @@
-<h2 align="left">Hi 👋! My name is Yasir Mohammed and I'm a Software Engineer, from Sudan.</h2>
+# Yasir Mohammed
 
+Software Engineer | Backend Web Developer
+
+---
+
+## About Me
+Backend developer focused on building web applications and APIs.  
+Interested in clean code, problem solving, and continuous learning.
+
+---
+
+## Tech Stack
+PHP • Python • SQL • Laravel • MySQL • Git • GitHub
+
+---
+
+## Projects
+
+### Smart Electricity Consumption System
+Graduation project for analyzing and predicting electricity usage using Linear Regression.
+
+Python • SQL
+
+---
+
+### User Management System
+Backend system for handling authentication and CRUD operations.
+
+Laravel • MySQL
+
+---
+
+### REST API Project
+Simple API for managing data requests and responses.
+
+PHP / Python
+
+---
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/yasir-mohammed-166783318  
+GitHub: https://github.com/yasirmohammed11
 ###
 
 <div align="left">
