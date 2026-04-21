@@ -17,8 +17,7 @@ PHP • Python • SQL • Laravel • MySQL • Git • GitHub
 
 ## Projects
 
-### Smart Electricity Consumption System
-Graduation project for analyzing and predicting electricity usage using Linear Regression.
+### Smart Electricity Consumption System analyzing and predicting electricity usage using Linear Regression.
 
 Python • SQL
 
